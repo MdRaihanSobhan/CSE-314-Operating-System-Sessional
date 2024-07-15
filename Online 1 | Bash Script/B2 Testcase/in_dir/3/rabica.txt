@@ -1,0 +1,4 @@
+this file contains information about rabice.
+
+rabice is a simple tool to create a backup of your files and directories.
+
